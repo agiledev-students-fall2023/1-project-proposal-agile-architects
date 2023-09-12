@@ -43,21 +43,22 @@ The program's main task is intensive language processing. It needs to be adjuste
 The software system I would like to build is an online food marketplace platform. This platform aims to address the significant problem of food wastage in restaurants and stores, while also providing an affordable and convenient food solution for individuals.
 
 
-Problems: Many restaurants and stores often find themselves with excess food at the end of the day, which goes unsold and ultimately becomes wasted. This is not only environmentally unsustainable but also a financial loss for businesses. Simultaneously, individuals, including those on a budget or those looking to explore new cuisines, struggle to find affordable and diverse food options. Additionally, they may hesitate to try a new restaurant or dish, fearing they might not enjoy it, leading to food and money wastage.
+**Problems:** Many restaurants and stores often find themselves with excess food at the end of the day, which goes unsold and ultimately becomes wasted. This is not only environmentally unsustainable but also a financial loss for businesses. Simultaneously, individuals, including those on a budget or those looking to explore new cuisines, struggle to find affordable and diverse food options. Additionally, they may hesitate to try a new restaurant or dish, fearing they might not enjoy it, leading to food and money wastage.
 
 
-Importance: Solving these problems can reduce food waste for restaurants and provide affordable food access for people who need them on one hand. On the other hand, it can also enhance dining experiences for people who want to try new cuisines, supporting local business and fostering a sense of community engagement by connecting customers with local food establishments.
+**Importance:** Solving these problems can reduce food waste for restaurants and provide affordable food access for people who need them on one hand. On the other hand, it can also enhance dining experiences for people who want to try new cuisines, supporting local business and fostering a sense of community engagement by connecting customers with local food establishments.
 
 
 ### For Whom?
 This system focuses on two primary user groups:
 
 
-1. Sellers - Store and Restaurant Owners:
+1. **Sellers - Store and Restaurant Owners:**
 
 
 User Story: As a store owner, such as at Happy Cafe, I aim to efficiently distribute surplus pastries to individuals who can benefit from them, so I can reduce food waste and let more people discover and appreciate the nice food at my cafe.
-2. Buyers - Customers Seeking Affordable Food:
+
+2. **Buyers - Customers Seeking Affordable Food:**
 
 
 User Story 1: As a customer, I aspire to acquire a substantial quantity of food items at a reduced cost compared to their original prices so that I can plan my meals for the week while making substantial savings on my food expenses.
