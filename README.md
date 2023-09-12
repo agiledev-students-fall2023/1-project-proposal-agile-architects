@@ -79,3 +79,31 @@ Overall, this Agile Food Marketplace Software is designed to revolutionize the w
 
 ### Scope
 This system embodies a traditional software development framework, facilitating interactions between two distinct user groups. While the specific domain may vary, such as a second-hand item trading platform or a house rental website, the endeavor proves highly beneficial. It is very useful and will not be too easy because it has many features (fronet-end and back-end: database, UI/UX, rating systems, etc.) to develop and practice our software developing skills. It will not be too ambitious as we can also be flexible to change the requirements (i.e adding or removing any features if needed), allowing us to incorporate new adjustments and keep the workload at a manageable level.
+
+# Proposal #3: EcoTracker
+
+### What and Why?
+In today's world, environmental sustainability is of paramount importance. Individuals and communities need tools to help them understand their impact on the environment and make more eco-friendly choices. The problem lies in the lack of accessible and user-friendly solutions to track and reduce carbon footprints and promote sustainable living. EcoTracker is a mobile app designed to address this problem by providing users with a comprehensive toolset for tracking their carbon footprint and making environmentally conscious decisions in their daily lives.
+
+### For Whom?
+It is aimed at environmentally-conscious individuals who want to reduce their carbon footprint and contribute to a more sustainable planet. This includes people of all ages, from students to professionals, and from various backgrounds who are willing to adopt greener lifestyles.
+
+### How?
+
+#### Key Features:
+
+- **Carbon Footprint Calculator:**
+  - Identify and extract characters mentioned in the text.
+- **Eco-Friendly Tips:**
+  - Collect details about characters including names, introductions, appearances, titles, and relationships.
+- **Progress Tracking:**
+  - Create a storage system to retain collected character information.
+- **Eco-Community:**
+  - Combine newly collected information with previously stored data for each character.
+- **Carbon Offsetting:**
+  - Generate a concise summary for each character based on the combined information.
+
+### Scope
+
+The scope of EcoTracker is well-suited for a team of 4-6 programmers. The development involves creating a user-friendly mobile application compatible with both iOS and Android platforms. It will incorporate features like data collection, analysis, and presentation, as well as a user-friendly interface for easy navigation and engagement. The development process will require integrating data sources for accurate carbon footprint calculations and establishing partnerships with carbon offset projects for the offseting feature. The user interface will be designed to encourage frequent usage and engagement with the app's eco-friendly tips and community features.
+
