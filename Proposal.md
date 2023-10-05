@@ -4,6 +4,8 @@
 
 WasteWise is a mobile web app focused on reducing food waste and fostering community support. The app helps users receive recipe suggestions based on available ingredients, plan meals, share surplus ingredients or meals within their community, and participate in environmental challenges.
 
+[link to figma wireframes](https://www.figma.com/file/LOtlcvLJMnR5EhQvi1QTxq/Agile-Architects-EcoTracker?type=design&node-id=0-1&mode=design&t=akjH4ISRK4yD0K3m-0)
+
 ### For whom?
 
 WasteWise is designed for individuals and families seeking to reduce food waste in their households, and/or interested in connecting with their local community through food sharing and mutual support.
